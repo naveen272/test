@@ -9,7 +9,13 @@
     width: 350px;
     height: 100px;
     margin-left: auto;
-    margin-right: auto;
+    margin-rierewksjgshlktshl
+            dkfjnsbkhril
+            tqw;oejntiqlrbqilerj
+            s]gmbrtuilheilghd;gjlrn
+            ]sgergu lidfgbuj.;o
+            '[nas
+            ]grfp'g;udjg;dfgln'noe'on'ght: auto;
     {text-align: center; /* required by some browsers */ }
      }
     </style>
